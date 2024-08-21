@@ -2,6 +2,8 @@
 
 This repository contains the solutions for the assignments of the Low-Level Parallel Programming course at Uppsala University, Spring 2024. The course focused on parallel programming techniques using C++ Threads, OpenMP, SIMD, and CUDA. The project involved a series of assignments that built upon each other to create a simulation of pedestrian movement using different parallelization strategies.
 
+In addition, the review presentation I have prepared and presented for the paper "A Pragmatic Implementation of Non-Blo cking Linked-Lists" written by Timothy L. Harris can be found in this repository as well. 
+
 ## Project Overview
 
 ### Assignment 1: Serial and Parallel Implementations using OpenMP and C++ Threads
